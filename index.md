@@ -63,10 +63,10 @@ The following step-by-step guides for developing ASP.NET Core applications are a
 * [Deploy an ASP.NET Core web app to Azure using Visual Studio](publish-to-azure-webapp-using-vs.md)  
 [使用 Visual Studio 部署一个 ASP.NET Core web 应用到 Azure ](publish-to-azure-webapp-using-vs.md)
 * [Publishing to an Azure Web App with Continuous Deployment](../publishing/azure-continuous-deployment.md)  
-[ 发布具有持续部署的 Azure Web 应用](../publishing/azure-continuous-deployment.md) 
+[ 发布可持续部署的 Azure Web 应用](../publishing/azure-continuous-deployment.md) 
 * [Deploy an ASP.NET container to a remote Docker host](https://docs.microsoft.com/azure/vs-azure-tools-docker-hosting-web-apps-in-docker)  
 [部署一个 ASP.NET 容器到远程 Docker 主机上](https://docs.microsoft.com/azure/vs-azure-tools-docker-hosting-web-apps-in-docker)
-* [使用VSTS构建并发布具有持续部署的 Azure Web 应用程序](../publishing/vsts-continuous-deployment.md)
+* [使用VSTS构建并发布可持续部署的 Azure Web 应用程序](../publishing/vsts-continuous-deployment.md)
 
 
 * [ASP.NET Core on Nano Server](nano-server.md)
